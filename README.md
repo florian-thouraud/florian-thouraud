@@ -30,7 +30,7 @@ ou sur [Coursera](https://www.coursera.org) où je suis actuellement ce [cours](
 
 - Interroger une base de données via SQL
 - Faire de l'analyse de données sur Excel ou Power BI
-- Faire des tableaux de bords sur Power BI ou Tableau.
+- Faire des tableaux de bords sur Power BI ou Tableau
 
 #### 🤝 Pour rentrer en contact
 
