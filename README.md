@@ -17,8 +17,8 @@ Je suis Florian, un Data Analyst Junior maîtrisant SQL, Power BI et Excel, parm
 
 Je suis à la recheche d'un projet stimulant autour de la Data dans lequel je pourrai apporter de la valeur et continuer à monter en compétence.
 
-En attendant j'occupe mes journées à me former en autodidacte, notamment sur [hackerrank](https://www.hackerrank.com) où je résous tous les jours des challenges SQL,
-ou sur [Coursera](https://www.coursera.org) où je suis actuellement ce [cours](https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse) que je recommande fortement.
+En attendant j'occupe mes journées à me former en autodidacte, notamment sur [Hackerrank](https://www.hackerrank.com) où je résous tous les jours des challenges SQL,
+ou sur [Coursera](https://www.coursera.org) où je suis actuellement ce [cours du soir dispensé par IBM](https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse) que je recommande fortement.
 
 #### 🛠️ Les outils que j'utilise
 
