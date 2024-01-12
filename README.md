@@ -7,10 +7,10 @@ Je suis Florian, un Data Analyst Junior maîtrisant SQL, Power BI et Excel, parm
 
 #### ⚡ Mon profil en 10 secondes ⚡
 
-- Titulaire d’un Master de Grande École de Commerce, spécialité Gestion de la Supply-Chain et des Achats.
+- Titulaire d’un Master de Grande École de Commerce, en Gestion de la Supply-Chain et des Achats.
 - 7 années d’expérience professionnelle dans les achats, la logistique et la gestion des stocks.
 - 2 années d’expérience à l’international, en Allemagne (Düsseldorf).
-- Obtention d’un Bachelor de Data Analyst 2023, réalisé en 100% à distance.
+- Obtention d’un Bachelor de Data Analyst 2023, réalisé 100% à distance.
 - De nombreux cas concrets réalisés en SQL, Tableau, Python, Machine Learning... visibles sur mon portfolio.
 
 #### 📌 Mon projet aujourd'hui
