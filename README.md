@@ -1,6 +1,7 @@
 ### 🙋‍♂️ Bonjour ! Quelques mots pour me présenter
 
-![banniere linkedin](https://github.com/FlorianThd/FlorianThd/assets/29311506/b0f0b4e8-4194-4809-afe5-2dd8da881cc3)
+
+![banniere github](https://github.com/FlorianThd/FlorianThd/assets/29311506/ca3928ec-9045-4989-a95b-c30a9ed8754b)
 
 
 Je suis Florian, un Data Analyst Junior maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
