@@ -7,8 +7,7 @@
 
 Je suis Florian, un Data Analyst Junior maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
 
-Si vous voulez commencer à parcourir mon portfolio, c'est par ici : https://github.com/FlorianThd/Sommaire_Portfolio
-Pour en savoir plus sur moi, continuez à lire.
+Si vous voulez directement commencer à parcourir mon portfolio, c'est par ici : [sommaire portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
 
 #### ⚡ Mon profil en 10 secondes ⚡
 
