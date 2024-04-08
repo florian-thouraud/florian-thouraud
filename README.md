@@ -44,5 +44,5 @@ ou sur [Coursera](https://www.coursera.org) où je suis actuellement ce [cours d
 - Mon mail fthouraud@pm.me
 
 
-Pourquoi ne pas commencer à voir concrétement certaines de mes réalisations ?
+Pourquoi ne pas commencer à voir concrétement certaines de mes réalisations ?<br />
 C'est par ici 👇 !
