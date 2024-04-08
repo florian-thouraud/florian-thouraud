@@ -35,7 +35,7 @@ Si vous voulez directement commencer à parcourir mon portfolio, c'est par ici :
 
 - Mon [Linkedin](https://www.linkedin.com/in/florian-thouraud)
 - Mon mail fthouraud@pm.me
-
+<br />
 
 N'hésitez pas à parcourir mes travaux en vous rendant sur le lien "Sommaire Profolio".
 <br />
