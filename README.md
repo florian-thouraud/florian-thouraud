@@ -5,7 +5,7 @@
 
 
 
-Je suis Florian, un Data Analyst Junior maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
+Je suis Florian, Data Analyst maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
 
 Si vous voulez directement commencer à parcourir mon portfolio, c'est par ici : [sommaire portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
 
@@ -13,7 +13,7 @@ Si vous voulez directement commencer à parcourir mon portfolio, c'est par ici :
 
 - Titulaire d’un Master de Grande École de Commerce, en Gestion de la Supply-Chain et des Achats.<br />
 - 7 années d’expérience professionnelle dans les achats, la logistique et la gestion des stocks.<br />
-- Expérience à l’international de 2 ans, en Allemagne (Düsseldorf), dans un environnement (interlocuteurs anglophones et germanophones au quotidien).<br />
+- Expérience de 2 ans en Allemagne (Düsseldorf) dans un environnement international (interlocuteurs anglophones et germanophones au quotidien).<br />
 - Titulaire d’un Bachelor de Data Analyst reconnu par l'État, réalisé 100% à distance sur une période de 12 mois en 2023.<br />
 - De nombreux cas concrets réalisés en SQL, Tableau, Python, Machine Learning... visibles sur mon portfolio.<br />
 
