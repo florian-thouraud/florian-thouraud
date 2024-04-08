@@ -37,6 +37,6 @@ Si vous voulez directement commencer à parcourir mon portfolio, c'est par ici :
 - Mon mail fthouraud@pm.me
 <br />
 
-N'hésitez pas à parcourir mes travaux en vous rendant sur le lien "Sommaire Profolio".
+N'hésitez pas à parcourir mes travaux en vous rendant sur le lien "Sommaire Portfolio".
 <br />
 Merci de votre visite !
