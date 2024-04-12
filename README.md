@@ -1,11 +1,11 @@
 ### 🙋‍♂️ Bonjour ! Quelques mots pour me présenter
 
 Je suis Florian, Data Analyst maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
-
-Si vous voulez directement commencer à parcourir mon portfolio, c'est par ici : [sommaire portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
+<br /><br />
+Pour commencer directement à parcourir mon portfolio, c'est par ici 👉 [sommaire portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
 <br /><br />
 Pour en savoir un peu plus sur moi,<br />
-c'est par là 👇<br />
+c'est par là 👇<br /><br />
 
 #### ⚡ Mon profil en 10 secondes ⚡
 
@@ -29,7 +29,7 @@ c'est par là 👇<br />
 - Savoir comprendre le besoin des utilisateurs finaux, comprendre leurs enjeux pour leur présenter des solutions adaptées.
 - Être rapidement à l'aise dans de nouveaux environnements de travail et sur de nouveaux outils.
 <br /><br />
-#### 🤝 Pour rentrer en contact, rendez-vous sur [Linkedin](https://www.linkedin.com/in/florian-thouraud)
+#### 🤝 Pour rentrer en contact, retrouvez-moi sur ma page [Linkedin](https://www.linkedin.com/in/florian-thouraud)
 
 <br />
 
