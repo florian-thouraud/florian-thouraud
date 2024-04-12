@@ -1,10 +1,5 @@
 ### 🙋‍♂️ Bonjour ! Quelques mots pour me présenter
 
-
-![banniere github](https://github.com/FlorianThd/FlorianThd/assets/29311506/68d4b061-e521-43a4-b21e-9e6132e4fd33)
-
-
-
 Je suis Florian, Data Analyst maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
 
 Si vous voulez directement commencer à parcourir mon portfolio, c'est par ici : [sommaire portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
