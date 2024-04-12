@@ -3,8 +3,10 @@
 Je suis Florian, Data Analyst maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
 
 Si vous voulez directement commencer à parcourir mon portfolio, c'est par ici : [sommaire portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
-<br />
-Pour en savoir un peu plus sur moi, c'est par là 👇<br />
+<br /><br />
+Pour en savoir un peu plus sur moi,<br />
+c'est par là 👇<br />
+
 #### ⚡ Mon profil en 10 secondes ⚡
 
 - Titulaire d’un Master de Grande École de Commerce, en Gestion de la Supply-Chain et des Achats.<br />
