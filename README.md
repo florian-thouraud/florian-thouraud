@@ -29,10 +29,8 @@ c'est par là 👇<br />
 - Savoir comprendre le besoin des utilisateurs finaux, comprendre leurs enjeux pour leur présenter des solutions adaptées.
 - Être rapidement à l'aise dans de nouveaux environnements de travail et sur de nouveaux outils.
 <br /><br />
-#### 🤝 Pour rentrer en contact
+#### 🤝 Pour rentrer en contact, rendez-vous sur [Linkedin](https://www.linkedin.com/in/florian-thouraud)
 
-- Mon [Linkedin](https://www.linkedin.com/in/florian-thouraud)
-- Mon mail fthouraud@pm.me
 <br />
 
 N'hésitez pas à parcourir mes travaux en vous rendant sur le lien "Sommaire Portfolio".
