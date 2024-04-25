@@ -29,7 +29,7 @@ c'est par là 👇<br /><br />
 - Savoir comprendre le besoin des utilisateurs finaux, comprendre leurs enjeux pour leur présenter des solutions adaptées.
 - Être rapidement à l'aise dans de nouveaux environnements de travail et sur de nouveaux outils.
 <br /><br />
-#### 🤝 Pour rentrer en contact, retrouvez-moi sur ma page [Linkedin](https://www.linkedin.com/in/florian-thouraud)
+#### 🤝 Pour rentrer en contact, retrouvez-moi sur [ma page Linkedin](https://www.linkedin.com/in/florian-thouraud)
 
 <br />
 
