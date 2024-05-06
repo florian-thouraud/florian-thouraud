@@ -1,6 +1,6 @@
 ### 🙋‍♂️ Bonjour ! Quelques mots pour me présenter
 
-English-speaking ? Please visit this page 👉 [About me](https://github.com/FlorianThd/AboutMe) 
+🇬🇧 English-speaking ? Please visit this page 👉 [About me](https://github.com/FlorianThd/AboutMe) 
 <br></br>
 Je suis Florian, Data Analyst maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
 <br /><br />
