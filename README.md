@@ -1,8 +1,10 @@
 ### 🙋‍♂️ Bonjour ! Quelques mots pour me présenter
 
+English-speaking ? Please visit this page 👉 [About me](https://github.com/FlorianThd/AboutMe)
+
 Je suis Florian, Data Analyst maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
 <br /><br />
-Pour commencer directement à parcourir mon portfolio, c'est par ici 👉 [sommaire portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
+Pour commencer directement à parcourir mon portfolio, c'est par ici 👉 [Portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
 <br /><br />
 Pour en savoir un peu plus sur moi,<br />
 c'est par là 👇<br /><br />
