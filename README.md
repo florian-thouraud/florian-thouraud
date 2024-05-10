@@ -35,6 +35,6 @@ c'est par là 👇<br /><br />
 
 <br />
 
-N'hésitez pas à parcourir mes travaux en vous rendant sur le lien "Sommaire Portfolio".
+N'hésitez pas à parcourir mon [Portfolio](https://github.com/FlorianThd/Sommaire_Portfolio).
 <br />
 Merci de votre visite !
