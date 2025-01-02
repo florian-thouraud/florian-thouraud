@@ -2,7 +2,7 @@
 
 🇬🇧 English-speaking ? Please visit this page 👉 [About me](https://github.com/FlorianThd/AboutMe) 
 <br></br>
-Je suis Data Analyst à Paris, utilisant qu quotidien SQL, Power BI et Excel, parmi d'autres choses.
+Je suis Data Analyst à Paris, utilisant au quotidien SQL, Power BI et Excel, parmi d'autres choses.
 <br /><br />
 Pour commencer directement à parcourir mon portfolio, c'est par ici 👉 [Portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
 <br /><br />
