@@ -2,14 +2,14 @@
 
 🇬🇧 English-speaking ? Please visit this page 👉 [About me](https://github.com/FlorianThd/AboutMe) 
 <br></br>
-Je suis Florian, Data Analyst maîtrisant SQL, Power BI et Excel, parmi d'autres choses.
+Je suis Data Analyst à Paris, utilisant qu quotidien SQL, Power BI et Excel, parmi d'autres choses.
 <br /><br />
 Pour commencer directement à parcourir mon portfolio, c'est par ici 👉 [Portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
 <br /><br />
 Pour en savoir un peu plus sur moi,<br />
 c'est par là 👇<br /><br />
 
-#### ⚡ Mon profil en 10 secondes ⚡
+#### Mon profil en quelques mots
 
 - Titulaire d’un Master de Grande École de Commerce, en Gestion de la Supply-Chain et des Achats.<br />
 - 7 années d’expérience professionnelle dans les achats, la logistique et la gestion des stocks.<br />
