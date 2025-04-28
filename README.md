@@ -3,6 +3,8 @@
 🇬🇧 English-speaking ? Please visit this page 👉 [About me](https://github.com/FlorianThd/AboutMe) 
 <br></br>
 Actuellement Data Analyst chez VPSitex à Paris, j'utilise au quotidien SQL, Power BI et Excel, parmi d'autres choses.
+Mon activité consiste à tirer des données des différents ERP (Sage, Sage Comptabilité, Microsoft Dynamics) et outils (Sharepoint, fichiers Excel) par les 3 entités du groupe,
+à les traiter puis les exploiter pour fournir des tableaux de bords utiles à l'activité de mes collaborateurs.
 <br /><br />
 Pour commencer directement à parcourir mon portfolio, c'est par ici 👉 [Portfolio](https://github.com/FlorianThd/Sommaire_Portfolio)
 <br /><br />
@@ -21,7 +23,6 @@ c'est par là 👇<br /><br />
 
 - Excel, Power Query, Power BI
 - SQL, Microsoft SQL Server Management Studio
-- Power Automate
 - Python, Jupyter Notebook
 - GitHub !
 <br /><br />
